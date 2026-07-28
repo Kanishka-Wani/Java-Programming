@@ -16,7 +16,7 @@ public class Restaurant{
         System.out.println("Item 1: "+ m1) ;
         System.out.println("Item 2: "+ m2) ;        
         System.out.println("-------------------------------");
-        System.out.printf("Total Bill:   "+ amount);
+        System.out.println("Total Bill:   "+ amount);
         System.out.println("-------------------------------");
     sc.close();
 }
